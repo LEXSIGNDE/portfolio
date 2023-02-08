@@ -1,0 +1,24 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LEXSIGNDE/portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LEXSIGNDE/portfolio/issues"
+  },
+  "homepage": "https://github.com/LEXSIGNDE/portfolio#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.8"
+  }
+}
