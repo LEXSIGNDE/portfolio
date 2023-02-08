@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "0.0.1",
+  "description": "my-site",
+  "main": "index.js",
+  "authors": {
+    "name": "alex",
+    "email": "lexsignhd@gmail.com"
+  },
+  "repository": "lexsignde/portfolio",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
